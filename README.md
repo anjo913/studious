@@ -1,10 +1,4 @@
----
-title: README
-created: '2022-11-27T23:25:48.202Z'
-modified: '2022-11-27T23:34:54.523Z'
----
-
-# README
+# studious
  
 ## Unit 1
 
